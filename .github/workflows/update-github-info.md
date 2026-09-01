@@ -8,6 +8,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit:
   web-fetch:
@@ -28,6 +29,7 @@ Fetch and review these public sources with `web-fetch`:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Update `site/content/github-info.md` only when the notes and fetched sources
 support an accurate, material improvement. When an update is warranted, use the
